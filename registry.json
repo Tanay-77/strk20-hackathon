@@ -329,6 +329,14 @@
     ]
   },
   {
+    "repo_url": "https://github.com/Portablelle/veilance-market",
+    "telegram": [
+      "koulaz"
+    ],
+    "name": "Veilance Market",
+    "category": "Payments"
+  },
+  {
     "repo_url": "https://github.com/welttowelt/booty-bank",
     "telegram": [
       "Odin_free"
@@ -595,143 +603,9 @@
     "category": "Gaming"
   },
   {
-    "repo_url": "https://github.com/neromtoobad/doom",
-    "telegram": [
-      "neromtooobad"
-    ],
-    "name": "Doom",
-    "one_liner": "Private decision markets on Starknet. Your DAO prices a question instead of voting on it: public odds, invisible participants.",
-    "category": "DeFi",
-    "x_handle": "neromtoobad"
-  },
-  {
-    "repo_url": "https://github.com/zarah-s/oju",
-    "telegram": [
-      "zarah_0x",
-      "devmano"
-    ],
-    "name": "Oju",
-    "slug": "oju",
-    "one_liner": "Privacy-first prediction markets built on Nigerian specifics, open to the world. Public odds, invisible participants, private positions and payouts through the STRK20 pool.",
-    "category": "DeFi",
-    "inspired_by": "RFP-07"
-  },
-  {
-    "repo_url": "https://github.com/shariqazeem/aether-strk20",
-    "telegram": [
-      "shariqshkt"
-    ],
-    "name": "Aether",
-    "slug": "aether",
-    "one_liner": "Shield once, then run continuous private strategies — DCA, yield, rebalancing — entirely inside the STRK20 pool, scoring every action for effective anonymity under repeated use.",
-    "category": "DeFi"
-  },
-  {
-    "repo_url": "https://github.com/bongbongcrypto/stealth-checkout",
-    "telegram": [
-      "bongbongcrypto"
-    ],
-    "name": "Stealth Checkout",
-    "one_liner": "Accept private payments on Starknet: drop-in checkout widget, hosted invoices, webhook confirmations, honest privacy receipts.",
-    "category": "Tooling",
-    "team": [
-      "bongbongcrypto"
-    ],
-    "inspired_by": "IDEA-11"
-  },
-  {
-    "repo_url": "https://github.com/Leequidice/Claim-Links",
-    "telegram": [
-      "flawless_flaws"
+  "repo_url": "https://github.com/Tanay-77/PrivatePay",
+  "telegram": [
+    "tanaym07"
     ]
-  },
-  {
-    "repo_url": "https://github.com/d4m014/one-way",
-    "telegram": [
-      "d4m014"
-    ],
-    "name": "OneWay",
-    "one_liner": "A one-way door for any ERC-20. Get paid without sharing a wallet, or leave a known wallet and exit on another chain.",
-    "category": "Payments",
-    "team": [
-      "d4m014"
-    ],
-    "x_handle": "d4m014"
-  },
-  {
-    "repo_url": "https://github.com/SodiqAbdulwaris/strk-disclose",
-    "telegram": [
-      "AbdulwarisSodiq"
-    ],
-    "category": "Infra"
-  },
-  {
-    "repo_url": "https://github.com/ssadkov/morok-pay-starknet",
-    "telegram": [
-      "ssadkov"
-    ],
-    "name": "MorokPay",
-    "one_liner": "Private USDC treasury on Starknet, funded from Ethereum via CCTP.",
-    "category": "Payments"
-  },
-  {
-    "repo_url": "https://github.com/BlackAporia/game-shield",
-    "telegram": [
-      "BlackAporia"
-    ],
-    "name": "GameShield",
-    "one_liner": "Private gaming bounty hub on Starknet: shielded prize pools, provable payout commitments and unlinkable rewards for tournaments, speedruns and PvP.",
-    "category": "Gaming",
-    "team": [
-      "BlackAporia"
-    ]
-  },
-  {
-    "repo_url": "https://github.com/Habuskid/Adyton",
-    "telegram": [
-      "habuskid01"
-    ],
-    "category": "DeFi",
-    "inspired_by": "IDEA-28"
-  },
-  {
-    "repo_url": "https://github.com/welson-ai/solmate-starknet",
-    "telegram": [
-      "kiminza_codes"
-    ],
-    "name": "solmate",
-    "one_liner": "On-chain credit scoring and undercollateralized lending on Starknet.",
-    "category": "DeFi",
-    "x_handle": "kiminza_codes"
-  },
-  {
-    "team_name": "STARKSTEALTH",
-    "name": "Alias",
-    "one_liner": "Disposable stealth addresses for one-click private payments on Starknet.",
-    "category": "Privacy",
-    "inspired_by": "ERC-5564",
-    "repo_url": "https://github.com/builder-of-web3/Alias",
-    "team": [
-      "builder-of-web3"
-    ],
-    "telegram": [
-      "mordor"
-    ],
-    "x_handle": "cryot_walker"
-  },
-  {
-    "repo_url": "https://github.com/cipoklean/rhizome",
-    "telegram": [
-      "Cipoklean"
-    ],
-    "name": "Rhizome",
-    "one_liner": "Prices what privacy costs on STRK20, then executes it: fee-aware tranche scheduling for private Vesu position through its own anonymizer.",
-    "slug": "rhizome",
-    "category": "DeFi",
-    "team": [
-      "cipoklean"
-    ],
-    "inspired_by": "IDEA-16",
-    "x_handle": "David63694631"
-  }
+}
 ]
